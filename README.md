@@ -8,10 +8,12 @@ This repository contains code and resources for a sentiment analysis project on 
 
 
 
-Project Overview
+**Project Overview**
+
 The goal of this project is to analyze the sentiment expressed in tweets about the coronavirus to gain insights into public opinions and emotions surrounding the pandemic. By classifying the sentiment of tweets, the project aims to understand the overall sentiment trends and provide valuable information for decision-making, public health, and crisis management.
 
-Project Features
+**Project Features**
+
 Data collection: Gathering a large dataset of tweets related to the coronavirus using the Twitter API.
 Data preprocessing: Cleaning and preprocessing the tweet text by removing noise, special characters, and irrelevant information.
 Feature extraction: Extracting relevant features from the preprocessed tweet text, such as word frequency, n-grams, or word embeddings.
